@@ -23,3 +23,5 @@ Githubの課題やプロジェクトでToDoを管理する
 4. Issuesで新しい課題を作成してみてください。custom.md を使ってクールなToDoスタイルのフォームを作ってみましょう([公式ドキュメント](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository))。
 5. Projectでオートメーションを設定し、課題のクローズを処理します。
 6. これでもう余計なToDo管理アプリは不要！
+
+- [Qiita:GitHubを最強のToDo管理ツールにする](https://qiita.com/o_ob/items/fd45fba2a9af0ce963c3)

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 新規ToDo
+    about: config.yml で書いてます
+    url: https://github.com/{username}/{repo}/issues/new?template=custom.md&projects={username}%2F{repo}%2F1&labels=ToDo

@@ -1,6 +1,6 @@
 ---
 name: ToDo template
-about: See https://github.com/kaitas/my-todo/edit/master/.github/ISSUE_TEMPLATE/custom.md
+about: See .github/ISSUE_TEMPLATE/custom.md
 title:  "[DATE]: [FEATURE NAME]"
 labels: 'ToDo'
 projects: 'kaitas/ToDo'
